@@ -1,0 +1,7 @@
+{
+  "name": "@marcela-os/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Marcelina",
+  "license": "MIT"
+}
